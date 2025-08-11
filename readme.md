@@ -17,7 +17,8 @@ Pic-Store is a full-stack web application designed to help photographers easily 
 *   **Language:** [TypeScript](https://www.typescriptlang.org/)
 *   **Styling:** [Tailwind CSS](https://tailwindcss.com/)
 *   **UI Components:** [Shadcn/ui](https://ui.shadcn.com/)
-*   **Database:** ( a relational database like PostgreSQL or MySQL, managed with Prisma ORM)
+*   **Database:** conect to your supabase account
+*   
 *   **Authentication:** using basic auth with next-auth
 
 git initgit initgit initgit initgit initgit remote add origin https://github.com/ANDERSON254KE/secure-pics-.git
